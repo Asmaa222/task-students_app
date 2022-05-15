@@ -1,0 +1,15 @@
+[{
+        "name": "ahmed",
+        "comment": "hello  second student",
+        "degree": [40, 60],
+        "id": 3,
+        "totaldegree": 100
+    },
+    {
+        "name": "omar",
+        "comment": "hello   first  student",
+        "degree": [40, 60],
+        "id": 1,
+        "totaldegree": 100
+    }
+]
